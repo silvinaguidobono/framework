@@ -1,0 +1,12 @@
+{
+    "app": {
+        "title":"Framework",
+        "version": "1.0"},
+    "dbconf": {
+        "driver": "mysql",
+        "dbhost": "",
+        "dbname": "",
+        "dbuser": "",
+        "dbpass": ""
+    }
+}
